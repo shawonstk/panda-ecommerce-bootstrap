@@ -1,0 +1,14 @@
+.bg-custom{
+    background-color: #fceae8;
+}
+.cata-wid img{
+    width: 100px;
+}
+.btn-custom{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+}
+.custom-transform:hover{
+    transform: scale(1.1);
+    transition: transform 1s ease-in-out;
+}
